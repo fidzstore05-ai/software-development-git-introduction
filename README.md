@@ -4,3 +4,8 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 
 Nama : Khafid Firdaus Ainur Yahya  
 NPM : 2313020025
+
+Tools yang digunakan 
+-	Git 
+-	GitHub 
+-	Visual Studio Code 
